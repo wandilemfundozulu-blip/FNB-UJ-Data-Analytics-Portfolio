@@ -1,35 +1,38 @@
 # FNB x UJ Data Analytics Portfolio
 
-**Wandile Mfundo Zulu | UJ Data Analytics | FNB App Academy 2025**
+**Wandile Mfundo Zulu | Data Analytics Learner | Johannesburg**
 
-Python + Tableau projects showing data cleaning, automation, and business storytelling — built for financial services & manufacturing analytics.
+Combining two programs: FNB App Academy x University of Johannesburg (Python) + Deloitte Data Analytics Virtual Internship (Tableau)
 
-### 🔧 Python Foundations
-Real-world South African use cases — input validation, error handling, calculations:
-- **Smart ATM Withdrawal Simulator** — Balance checks, withdrawal limits (if/else logic)
-- **SA Fuel Cost Calculator** — Fuel price + distance + consumption logic
-- **Ticket Booker & Storage/Access** — List operations, storage management
+### 🔧 Python Foundations — FNB x UJ App Academy Program
+Built during the FNB App Academy with UJ. Real-world South African use cases focusing on logic, validation, and automation:
+- **Smart ATM Withdrawal Simulator** — Balance checks, withdrawal limits, error handling (if/else)
+- **SA Fuel Cost Calculator** — Fuel price x distance / consumption logic
+- **Ticket Booker & Storage/Access** — Lists, loops, storage management
+- Lessons 4, 5, 6 — Core Python fundamentals
 
-> All scripts in `/Python_Foundations` — clean, commented, beginner-to-intermediate Python.
+> All scripts in `/Python_Foundations` — clean, commented, runnable Python.
 
-### 📊 Tableau — Daikibo Factory Downtime Analysis
-Analyzed 1,030+ factory downtime events across departments and machines.
+### 📊 Tableau Dashboards — Deloitte Data Analytics Certificate (Forage)
+Completed Deloitte's Data Analytics Virtual Experience Program on Forage. 
 
-**Key Insights:**
-- **1,030 total Unhealthy events** tracked
-- **Seiko is the worst machine:** 480 events (46% of all failures)
-- **Top Issues:** Sensor (180), Electrical (150), Mechanical (120) in Seiko department
-- Built interactive dashboards with filters by Department, Machine, Factory to drive maintenance prioritization
+**Module: Tableau for Data Visualization**
+- Dataset: Daikibo Factory Downtime (1,030+ events)
+- Task: Analyze factory health and identify failure patterns
+- Built interactive dashboards with filters by Department, Machine, Factory
+- **Key finding from my analysis:** Seiko machine = 480 unhealthy events (highest)
 
-> Screenshots + .twbx in `/Tableau_Dashboards`
+> Screenshots from my Deloitte certificate work in `/Tableau_Dashboards`
 
 ### 🛠️ Tech Stack
-Python | Tableau | Data Cleaning | EDA | Business Storytelling
+Python | Tableau | Data Cleaning | Business Storytelling | Forage Virtual Internships
 
-### 🎯 What I'm aiming for
-Data Analyst / Business Intelligence role in financial services — turning messy data into clear business decisions.
+### 🎓 Certifications
+- FNB x University of Johannesburg — Data Analytics (App Academy 2025)
+- Deloitte — Data Analytics Virtual Internship (Forage)
 
-**Contact:** GitHub: wandilemfundozulu-blip
+### 🎯 Goal
+Entry-level Data Analyst / BI role in financial services — turning data into clear business decisions.
 
 ---
-*Built during FNB x UJ Data Analytics Program*
+*Portfolio by Wandile Mfundo Zulu | github.com/wandilemfundozulu-blip*
