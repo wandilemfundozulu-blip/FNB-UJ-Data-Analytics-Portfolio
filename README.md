@@ -28,7 +28,7 @@ Completed Deloitte's Data Analytics Virtual Experience Program on Forage.
 Python | Tableau | Data Cleaning | Business Storytelling | Forage Virtual Internships
 
 ### 🎓 Certifications
-- FNB x University of Johannesburg — Data Analytics (App Academy 2025)
+- FNB x University of Johannesburg — Data Analytics (App Academy 2026)
 - Deloitte — Data Analytics Virtual Internship (Forage)
 
 ### 🎯 Goal
